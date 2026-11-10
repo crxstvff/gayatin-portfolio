@@ -1,8 +1,8 @@
 export default function Projects() {
   const sampleProjects = [
-    { id: 1, title: "Project 1", description: "Isang simpleng web application gamit ang JavaScript." },
-    { id: 2, title: "Project 2", description: "Isang weather app project gamit ang external API." },
-    { id: 3, title: "Project 3", description: "Isang responsive landing page gamit ang CSS grid." }
+    { id: 1, title: "Project 1", description: "A simple web application built with JavaScript." },
+    { id: 2, title: "Project 2", description: "A weather app project built with an external API." },
+    { id: 3, title: "Project 3", description: "A responsive landing page built with CSS grid." }
   ];
 
   return (

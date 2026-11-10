@@ -16,7 +16,7 @@ function Layout() {
       </main>
 
       <footer style={{ borderTop: '1px solid #ccc', paddingTop: '15px' }}>
-        <p>© Albert Portfolio</p>
+        <p>© Gayatin Portfolio</p>
       </footer>
     </div>
   );
@@ -37,7 +37,7 @@ function About() {
     <div>
       <h1>About Me</h1>
       {/* PALITAN MO RIN DITO KUNG GUSTO MO NG IBANG PANGALAN */}
-      <p>I am George Rey I. Albert, an aspiring web developer learning React.</p>
+      <p>I am James Cristoffer L. Gayatin, an aspiring web developer learning React.</p>
       <h3>Skills</h3>
       <ul>
         <li>HTML & CSS</li>
@@ -54,12 +54,11 @@ function Projects() {
       <h1>My Projects</h1>
       <div style={{ border: '1px solid #ddd', padding: '10px', marginBottom: '10px' }}>
         <h3>Snack to Go</h3>
-        <p>A simple Food web application </p>
+        <p> A 2D Arcade Game with Levels </p>
       </div>
       <div style={{ border: '1px solid #ddd', padding: '10px' }}>
-        <h3>Lost and Found</h3>
-        <p>A lost and Found web application
-        </p>
+        <h3>Boom Spaceship</h3>
+        <p>A Fast Shooting Game </p>
       </div>
     </div>
   );
@@ -69,7 +68,7 @@ function Contact() {
   return (
     <div>
       <h1>Contact Me</h1>
-      <p>Email: albertgeorgerey@gmail.com</p>
+      <p>Email: jamesgayatin0@gmail.com</p>
     </div>
   );
 }
