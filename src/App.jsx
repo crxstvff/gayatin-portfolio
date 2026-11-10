@@ -53,7 +53,7 @@ function Projects() {
     <div>
       <h1>My Projects</h1>
       <div style={{ border: '1px solid #ddd', padding: '10px', marginBottom: '10px' }}>
-        <h3>Snack to Go</h3>
+        <h3>Bouncing Ball</h3>
         <p> A 2D Arcade Game with Levels </p>
       </div>
       <div style={{ border: '1px solid #ddd', padding: '10px' }}>
